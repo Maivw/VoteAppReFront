@@ -2,7 +2,7 @@
 *Created by <a href="https://github.com/Maivw" target="_blank">Mai Van Wagner
 
 <p align="center">
-  <img src="https://github.com/Maivw/VoteApp-client/blob/master/recordingVoteApp.gif?raw=true"/>
+  <img src="https://github.com/Maivw/VoteApp-client/blob/master/recordingVote.gif?raw=true"/>
 </p>
 
 [Live Demo](https://voteappfront.herokuapp.com/)
