@@ -175,5 +175,3 @@ function Home(props) {
 }
 
 export default Home;
-
-//AIzaSyD6XtRWC2ScTNPOfgwLtnozq1nRbuMtEfA
