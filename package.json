@@ -42,8 +42,7 @@
 		"redux-persist": "^6.0.0",
 		"redux-thunk": "^2.3.0",
 		"tailwindcss": "^1.4.6",
-		"use-dark-mode": "^2.3.1",
-		"webpack": "^4.20.2"
+		"use-dark-mode": "^2.3.1"
 	},
 	"scripts": {
 		"start": "react-scripts start",
