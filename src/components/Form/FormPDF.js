@@ -7,7 +7,7 @@ export default function FormPDF() {
 	const submittedForm = useSelector((state) => state.formManagement.form);
 
 	const url =
-		"https://voteappbackend.herokuapp.com/uploads/StateNominationPaperPoliticalBodyDSBE-PB2020.pdf";
+		"https://voteappback.herokuapp.com/uploads/StateNominationPaperPoliticalBodyDSBE-PB2020.pdf";
 	const modifyPdf = async () => {
 		const existingPdfBytes = await fetch(url).then((res) => res.arrayBuffer());
 		const pdfDoc = await PDFDocument.load(existingPdfBytes);

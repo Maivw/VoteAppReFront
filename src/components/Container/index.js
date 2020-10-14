@@ -18,7 +18,7 @@ export default function Container() {
 					scope: "read:current_user",
 				});
 
-				const res = await fetch(`https://voteappbackend.herokuapp.com/users`, {
+				const res = await fetch(`https://voteappback.herokuapp.com/users`, {
 					method: "PATCH",
 					headers: {
 						"Content-Type": "application/json",
