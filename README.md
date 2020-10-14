@@ -34,4 +34,4 @@ Vote App will allow users to:
 
 ### Documentation:
 
-- [Database](https://github.com/Maivw/VoteApp-Server)
+- [Database](https://github.com/Maivw/VoteAppReBack)
